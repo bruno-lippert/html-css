@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-image: linear-gradient(to right,#F3FFB1,#D7EB7F);
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+/*
+O elemento <main> define o conteúdo principal dentro do <body> em seu documento ou aplicação.
+*/
+main{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #515830bb;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1{
+    color: #424D1A;
+    text-align: center;
+    text-shadow: 1px 1px 2px #1f240bc9;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2em;
+}
+
+h2{
+    color: #839934;
+    font-size: 1.5em;
+    font: italic bold 1.5em 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
+
+p{
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+}
