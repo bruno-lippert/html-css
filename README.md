@@ -88,7 +88,7 @@ Desafios
 
 <a href="https://bruno-lippert.github.io/html-css/Desafios/desafio11/index.html">Executar Desafio 11</a>
 
-<a href="https://bruno-lippert.github.io/html-css/Desafios/desafio12/index.html">Executar Desafio 12</a>
+<a href="https://bruno-lippert.github.io/html-css/Desafios/Desafio12/index.html">Executar Desafio 12</a>
 
 <a href="https://bruno-lippert.github.io/html-css/Desafios/Desafio13/Desafio-13-1.1.html">Executar Desafio 13 1.1</a>
 
