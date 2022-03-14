@@ -65,4 +65,6 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <a href="https://bruno-lippert.github.io/html-css/Exercicios/ex022/tabela002.html">Executar exercício 022 1.2</a>
 
+<a href="https://bruno-lippert.github.io/html-css/Exercicios/ex022/tabela003.html">Executar exercício 022 1.3</a>
+
 <a href="https://bruno-lippert.github.io/html-css/Exercicios/OutrosExercicios/LogoNetflix/logoNetflix.html">Executar exercício</a>
