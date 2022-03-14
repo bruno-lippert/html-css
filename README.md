@@ -92,4 +92,4 @@ Desafios
 
 <a href="https://bruno-lippert.github.io/html-css/Desafios/Desafio13/Desafio-13-1.1.html">Executar Desafio 13 1.1</a>
 
-<a href="https://bruno-lippert.github.io/html-css/Desafios/desafio13/Desafio-13-1.2.html">Executar Desafio 13 1.2</a>
+<a href="https://bruno-lippert.github.io/html-css/Desafios/Desafio13/desafio-13-1.2.html">Executar Desafio 13 1.2</a>
