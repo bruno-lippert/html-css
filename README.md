@@ -61,11 +61,17 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <a href="https://bruno-lippert.github.io/html-css/Exercicios/ex021/sombra.html">Executar exercício 021 1.5</a>
 
-<a href="https://bruno-lippert.github.io/html-css/Exercicios/ex022/tabela001.html">Executar exercício 022 1.1</a>
+<a href="https://bruno-lippert.github.io/html-css/Exercicios/ex022/fundo.html">Executar exercício 022 1.1</a>
 
-<a href="https://bruno-lippert.github.io/html-css/Exercicios/ex022/tabela002.html">Executar exercício 022 1.2</a>
+<a href="https://bruno-lippert.github.io/html-css/Exercicios/ex022/tfundo02.html">Executar exercício 022 1.2</a>
 
-<a href="https://bruno-lippert.github.io/html-css/Exercicios/ex022/tabela003.html">Executar exercício 022 1.3</a>
+<a href="https://bruno-lippert.github.io/html-css/Exercicios/ex022/fundo03.html">Executar exercício 022 1.3</a>
+
+<a href="https://bruno-lippert.github.io/html-css/Exercicios/ex022/fundo04.html">Executar exercício 022 1.4</a>
+
+<a href="https://bruno-lippert.github.io/html-css/Exercicios/ex022/fundo05.html">Executar exercício 022 1.5</a>
+
+<a href="https://bruno-lippert.github.io/html-css/Exercicios/ex022/fundo06.html">Executar exercício 022 1.6</a>
 
 <a href="https://bruno-lippert.github.io/html-css/Exercicios/OutrosExercicios/LogoNetflix/logoNetflix.html">Executar exercício</a>
 
