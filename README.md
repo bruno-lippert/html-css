@@ -69,6 +69,7 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 <a href="https://bruno-lippert.github.io/html-css/Exercicios/OutrosExercicios/LogoNetflix/logoNetflix.html">Executar exercício</a>
 
+
 Desafios
 
 <a href="https://bruno-lippert.github.io/html-css/Desafios/Desafio10/desafio10.html">Executar Desafio 10</a>
